@@ -32,7 +32,7 @@
 
 <img src="./assets/stack.svg" width="100%" alt="Stack : HTML, CSS, JavaScript, TypeScript, React, Vue.js, Node.js, Express, MariaDB, PostgreSQL, Git, GitHub, Docker, Postman, Figma, Notion, Jira, Trello"/>
 
-<br/>
+<br/><br/>
 
 <img src="./assets/section-05.svg" width="100%" alt="05 — Hors du code"/>
 
