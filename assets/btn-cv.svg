@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="64" viewBox="0 0 270 64"><defs>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#C4B5FD"/>
+</linearGradient>
+<linearGradient id="cardStroke" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#A78BFA" stop-opacity=".35"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".15"/>
+</linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="270" height="64" rx="16"/></clipPath></defs>
+<linearGradient id="btn" x1="0" x2="1"><stop offset="0" stop-color="#6D28D9"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient><g clip-path="url(#r)"><rect width="270" height="64" fill="url(#btn)"/>
+<rect x="-120" y="0" width="80" height="64" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-120;330;330" keyTimes="0;.4;1" dur="4s" repeatCount="indefinite"/></rect></g>
+<g fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M35 19v17M28 30l7 7 7-7M24 43h22"/></g>
+<text x="62" y="30" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#fff">Télécharger mon CV</text>
+<text x="62" y="49" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#fff" fill-opacity=".85">PDF · 1 page</text></svg>
